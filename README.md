@@ -8,7 +8,7 @@ The project also features **real-time process monitoring** through the HMI and u
 ### HMI Interface
 The **HMI** plays a crucial role in this project, enabling users to interact with the system. Here's a preview of the HMI interface that lets users select the coffee concentration and monitor the brewing process:
 
-<img src="CM.PNG" width="50%">
+<img src="CM.PNG" width="80%">
 
 ## Key Features
 - **User-Controlled Concentration Selection**: Allows users to choose between Low, Medium, or High coffee concentration via the HMI interface.
