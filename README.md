@@ -43,7 +43,10 @@ The **liquid level sensor** is a critical component of the system, ensuring that
 - **Data Logging**: Implement data logging for tracking coffee brewing statistics and performance over time.
 - **Remote Control**: Add the ability to control and monitor the system remotely via a mobile app or web interface.
 
+## Visuals
+
+### Coffee Machine HMI
+<img src="CM.PNG" width="50%">
+
 ## License
 This project is licensed under the MIT License.
-
-
