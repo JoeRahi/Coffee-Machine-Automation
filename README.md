@@ -5,6 +5,11 @@ The **Coffee Machine Automation Project** aims to automate the brewing process o
 
 The project also features **real-time process monitoring** through the HMI and uses a **liquid level sensor** to stop the valve once the cup reaches a low level. This automation eliminates manual control, ensuring consistency and efficiency in the coffee brewing process.
 
+### HMI Interface
+The **HMI** plays a crucial role in this project, enabling users to interact with the system. Here's a preview of the HMI interface that lets users select the coffee concentration and monitor the brewing process:
+
+<img src="CM.PNG" width="50%">
+
 ## Key Features
 - **User-Controlled Concentration Selection**: Allows users to choose between Low, Medium, or High coffee concentration via the HMI interface.
 - **Dynamic Timer Control**: Automatically adjusts the dispensing of coffee and water based on the concentration level selected.
@@ -42,11 +47,6 @@ The **liquid level sensor** is a critical component of the system, ensuring that
 - **Automated Maintenance Alerts**: Integrate sensor feedback to notify users when the system requires maintenance (e.g., when filters need replacement).
 - **Data Logging**: Implement data logging for tracking coffee brewing statistics and performance over time.
 - **Remote Control**: Add the ability to control and monitor the system remotely via a mobile app or web interface.
-
-## Visuals
-
-### Coffee Machine HMI
-<img src="CM.PNG" width="50%">
 
 ## License
 This project is licensed under the MIT License.
